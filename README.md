@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Samruddh Shah</h1>
+<h1 align="center">Hi 👋, I'm Jagankumar</h1>
 <h3 align="center">A fullstack dev with product sense.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samruddh&label=Profile%20views&color=0e75b6&style=flat" alt="samruddh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ejagankumar&label=Profile%20views&color=0e75b6&style=flat" alt="samruddh" /> </p>
 
-- 🔭 I’m currently working on [Cryptoverse](https://github.com/samruddh/cryptoverse)
+- 🔭 I’m currently working on [ejagankumar](https://github.com/ejagankumar/ejagankumar)
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning ** Spring Boot**
 
-- 👯 I’m looking to collaborate on **React, Node.js**
+- 👯 I’m looking to collaborate on **Java, Angular, React, Node.js**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **Samruddhashah@gmail.com**
+- 📫 How to reach me **ejagankumar@gmail.com**
 
 
 
