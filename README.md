@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jagankumar</h1>
 <h3 align="center">A fullstack dev with product sense.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ejagankumar&label=Profile%20views&color=0e75b6&style=flat" alt="samruddh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ejagankumar&label=Profile%20views&color=0e75b6&style=flat" alt="jagankumar" /> </p>
 
-- 🔭 I’m currently working on [ejagankumar](https://github.com/ejagankumar/ejagankumar)
+- 🔭 I’m currently working on [DIGIT](https://github.com/egovernments/DIGIT-OSS)
 
 - 🌱 I’m currently learning ** Spring Boot**
 
@@ -17,17 +17,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samruddhshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samruddhshah" height="30" width="40" /></a>
-<a href="https://instagram.com/samruddhshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samruddhshah" height="30" width="40" /></a>
-<a href="https://medium.com/@samruddhashah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samruddhashah" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/samruddhshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ejagankumar" height="30" width="40" /></a> -->
+<a href="https://www.instagram.com/jagankumar_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ejagankumar" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@samruddhashah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ejagankumar" height="30" width="40" /></a> -->
 </p>
 
 
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [How to connect google sheet with database](https://samruddhashah.medium.com/mysql-to-google-sheet-e4a1336dba18)
-- [Metaverse Future...](https://samruddhashah.medium.com/metaverse-future-878a0dd88883)
+<!-- - [How to connect google sheet with database](https://samruddhashah.medium.com/mysql-to-google-sheet-e4a1336dba18)
+- [Metaverse Future...](https://samruddhashah.medium.com/metaverse-future-878a0dd88883) -->
 <!-- - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
 <!-- BLOG-POST-LIST:END -->
